@@ -1,7 +1,7 @@
 import './App.css';
-import Home from './Components/Home';
-import Login from './Components/Login';
-import About from './Components/About';
+import Home from './pages/Home';
+import Login from './pages/Login';
+import About from './pages/About';
 function App() {
   return (
     <div className='App'>
