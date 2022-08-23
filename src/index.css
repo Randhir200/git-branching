@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cart_container {
+  width: 25%;
+  margin: 0 auto;
+  border: 1px solid green;
+}
+
+.Item {
+  display: flex;
+  align-items: center;
+  border: 1px solid orangered;
+  justify-content: space-around;
+}
+.qty {
+  margin: 0 10px;
+}
